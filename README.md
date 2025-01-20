@@ -17,7 +17,6 @@
 <h3 align="left">Entre em contato:</h3>
 
 [![E-mail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:william_limaa@hotmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/williamkeyb)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/will-developer/)
 
 <h3 align="left">Tecnologias que conheço:</h3>
