@@ -1,60 +1,79 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7387E2&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Seja+Muito+Bem+Vindo(ª)+%E2%8A%B9+" alt="">
-  </a>
-</div>
+# 👥 Sobre Nós
 
-<img align="center" alt="" src="./src/github.gif">
+Este repositório foi criado por 4 participantes da 16º edição do VemSer, onde estamos aprendendo com a git/github com a instrutora Maria Cristina Jung Muller!
 
-#
+---
 
-<p align="center">Estudante de Engenharia da Computação na Universidade Virtual do Estado de São Paulo. Atualmente estou me dedicando a aprimorar meus conhecimento na Cloud AWS. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+## 👤 Kariny Rodrigues Fernandes
 
-#
+![karinyrfernands](https://github.com/karinyrfernands.png)
 
-<img align="right" height="200px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM254a2NxdWc1eTRkcjZ2ZHo0eDhlNG9wdXExejBhNGwzYmZxdXJvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Descrição do GIF">
+- 🏗️ **Trilha:** RPA
+- 📚 **Curso:** Análise e Desenvolvimento de Sistemas
+- 🌐 **Perfil do GitHub:** [karinyrfernands](https://github.com/karinyrfernands)
 
-<h3 align="left">Entre em contato:</h3>
+### 🛠️ Hard Skills
 
-[![E-mail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:william_limaa@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/will-developer/)
+| Linguagens | Frameworks / Libs | Banco de Dados | Ferramentas |
+| ---------- | ----------------- | -------------- | ----------- |
+| JavaScript | Node.js           | Excel          | Git, VSCode |
 
-<h3 align="left">Tecnologias que conheço:</h3>
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="35" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="aws logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="35" alt="nodejs logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" height="35" alt="nestjs logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" height="35" alt="prisma logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" height="35" alt="git logo"  />
-  <img width="8" />
-</div>
+## 👤 _[Kauã Kelvyn]_
 
-#
+![Kerubink](https://github.com/Kerubink.png)
 
-### 🌟 Desenvolvedor Full-Stack e entusiasta da tecnologia
-- 🚀 Estou procurando um estágio<br/>
-- 📚 7º semestre de Engenharia da Computação<br/>
-- 🎓 Formado em Processos Gerenciais<br/>
-- 🎸 Músico<br/>
-- 💻 Amor por tecnologia e muita vontade de contribuir para o mercado<br/><br/>
+- 🏗️ **Trilha:** QA
+- 📚 **Curso:** Ciencia da Computação
+- 🌐 **Perfil do GitHub:** [github](https://github.com/Kerubink)
 
+### 🛠️ Hard Skills
 
+|        Linguagens           | Frontend & UI/UX      | Backend & Banco de Dados | Ferramentas de Desenvolvimento  |
+| --------------------------- | --------------------- | ------------------------ | ------------------------------- |
+|  JavaScript, Python, Java   | Html, css, React.js   | Node.js, SQL, MongoDB    | Git, VsCode, Postman            |
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/will-developer/will-developer/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/will-developer/will-developer/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/will-developer/will-developer/output/github-contribution-grid-snake.svg">
-</picture>
+---
+
+## 👤 Pessoa 3 — _[Nome Aqui]_
+
+![Foto de Pessoa 3](link-da-foto-aqui)
+
+- 🏗️ **Trilha:** Deploy automatizado com infraestrutura como código
+- 📚 **Curso:** Segurança na nuvem, escalabilidade de sistemas distribuídos
+- 🌐 **Perfil do GitHub:** [github](#)
+
+### 🛠️ Hard Skills
+
+| Ferramentas DevOps | Cloud | IaC       | CI/CD                     |
+| ------------------ | ----- | --------- | ------------------------- |
+| Docker, Kubernetes | AWS   | Terraform | GitHub Actions, GitLab CI |
+
+---
+
+## 👤 William Augusto de Lima
+
+![Foto de Pessoa 4](https://github.com/will-developer.png)
+
+- 🏗️ **Trilha:** Full-Stack
+- 📚 **Estudando:** Engenharia da Computação - 6º semestre
+- 🌐 **Perfil do GitHub:** [will-developer](https://github.com/will-developer)
+
+### 🛠️ Hard Skills
+
+| Linguagens             | Bibliotecas / Frameworks | Banco de Dados | Ferramentas                 |
+| ---------------------- | ------------------------ | -------------- | --------------------------- |
+| JavaScript, TypeScript | Nest, React, Prisma      | MySql, MongoDB | Cloud AWS, VS-Code, Postman |
+
+---
+
+- 4. Explore o git fetch (Opcional): 
+Faça outra pequena alteração no README.md diretamente no GitHub e commite.
+No terminal, use git fetch origin. Isso baixa as alterações remotas, mas não as integra automaticamente à sua branch local.
+Use git status para ver que sua branch local está "atrás" da origin/main.
+Use git diff main origin/main para ver as diferenças.
+Agora, use git merge origin/main para integrar as alterações (ou git pull origin main que combina fetch e merge).
+
+---
+
