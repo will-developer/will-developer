@@ -46,7 +46,7 @@
 
 ### 🌟 Desenvolvedor Full-Stack e entusiasta da tecnologia
 - 🚀 Estou procurando um estágio<br/>
-- 📚 7º semestre de Engenharia da Computação<br/>
+- 📚 6º semestre de Engenharia da Computação<br/>
 - 🎓 Formado em Processos Gerenciais<br/>
 - 🎸 Músico<br/>
 - 💻 Amor por tecnologia e muita vontade de contribuir para o mercado<br/><br/>
