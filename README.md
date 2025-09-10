@@ -12,7 +12,7 @@
 
 #
 
-<img align="right" height="200px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM254a2NxdWc1eTRkcjZ2ZHo0eDhlNG9wdXExejBhNGwzYmZxdXJvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Descrição do GIF">
+<img align="right" height="180" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM254a2NxdWc1eTRkcjZ2ZHo0eDhlNG9wdXExejBhNGwzYmZxdXJvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Descrição do GIF">
 
 <h3 align="left">Entre em contato:</h3>
 
